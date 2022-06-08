@@ -1,0 +1,2 @@
+# IPFS-Dropbox-
+The Dropbox application explores the inter planetory file system storage where people can come and  connect their blockchain wallet to use the specified features of dropbox by uploading .txt files, jpeg file, mp3 files, and folders with a magnificient amount of data over the internet without being much concern about their data fraud tollerance and a user can share these data from one person to any other throughout the network.
